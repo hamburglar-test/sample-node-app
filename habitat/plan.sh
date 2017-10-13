@@ -1,5 +1,5 @@
 pkg_name=sample-node-app
-pkg_origin=1009hamburglar-test
+pkg_origin=1013demo-take2
 pkg_scaffolding="core/scaffolding-node"
 pkg_version="1.0.1"
 
