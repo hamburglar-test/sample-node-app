@@ -8,4 +8,3 @@ declare -A scaffolding_env
 # Define path to config file
 scaffolding_env[APP_CONFIG]="{{pkg.svc_config_path}}/config.json"
 
-#Just adding comments to kick off a new build
